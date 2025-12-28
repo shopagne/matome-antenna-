@@ -1,0 +1,8 @@
+# 2ちゃんねるまとめのまとめ (Sample Data)
+http://blog.livedoor.jp/news23vip/index.rdf
+http://hamusoku.com/index.rdf
+http://blog.livedoor.jp/kinisoku/index.rdf
+http://blog.livedoor.jp/goldennews/index.rdf
+http://blog.livedoor.jp/nwknews/index.rdf
+http://alfalfalfa.com/index.rdf
+http://itainews.com/index.rdf

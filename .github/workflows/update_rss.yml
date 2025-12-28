@@ -1,0 +1,35 @@
+name: Update RSS Articles
+
+on:
+  schedule:
+    - cron: '0 * * * *' # 1時間に1回実行
+  workflow_dispatch: # 手動実行用ボタン
+
+jobs:
+  update-rss:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: |
+          pip install feedparser
+
+      - name: Run RSS fetcher
+        run: |
+          cd backend
+          python fetch_rss.py
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add frontend/public/articles.json
+          git diff --quiet && git diff --staged --quiet || git commit -m "Update articles [skip ci]"
+          git push
