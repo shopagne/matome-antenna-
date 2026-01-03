@@ -6,8 +6,9 @@ from datetime import datetime
 from email.utils import parsedate_to_datetime
 
 # Configuration
-SITES_FILE = "sites.txt"
-OUTPUT_FILE = "../frontend/public/articles.json" # Output directly to frontend public folder
+SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
+SITES_FILE = os.path.join(SCRIPT_DIR, "sites.txt")
+OUTPUT_FILE = os.path.join(SCRIPT_DIR, "..", "frontend", "public", "articles.json")
 MAX_ARTICLES_PER_SITE = 5
 
 def load_sites():
