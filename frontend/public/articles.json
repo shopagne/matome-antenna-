@@ -1,59 +1,227 @@
 [
   {
-    "title": "巨人の阿部監督、辞任。　娘にGPTに相談されて警察呼ばれ逮捕されたためw",
-    "url": "https://itainews.com/archives/2062880.html",
-    "blog_title": "痛いニュース(ﾉ∀`)",
-    "date": "2026-05-26 06:30",
-    "timestamp": 1779777050.0
-  },
-  {
-    "title": "【野球】巨人・国松代表　逮捕の阿部慎之助容疑者に「暴力は許されない…進退を含め処分を検討」26日以降は橋上秀樹コーチが監督代行",
-    "url": "https://itainews.com/archives/2062868.html",
-    "blog_title": "痛いニュース(ﾉ∀`)",
-    "date": "2026-05-26 06:30",
-    "timestamp": 1779777010.0
-  },
-  {
-    "title": "ホリエモン「リュウジが騒いだせいで消防と保健所が来た！自分の影響力わかってやってんのか！」",
-    "url": "http://blog.livedoor.jp/kinisoku/archives/5681133.html",
-    "blog_title": "キニ速",
-    "date": "2026-05-26 06:23",
-    "timestamp": 1779776619.0
-  },
-  {
-    "title": "文科省「平和学習で多様な意見扱った証拠を出せ」　同志社国際「沖縄県のホームページ・・・」",
-    "url": "https://alfalfalfa.com/articles/11043981.html",
-    "blog_title": "アルファルファモザイク＠ネットニュースのまとめ",
-    "date": "2026-05-26 06:20",
-    "timestamp": 1779776401.0
-  },
-  {
-    "title": "奈良市　強盗致傷などの疑い　トクリュウの犯行か　男子高校生ら３人逮捕",
-    "url": "https://itainews.com/archives/2062867.html",
-    "blog_title": "痛いニュース(ﾉ∀`)",
-    "date": "2026-05-26 06:02",
-    "timestamp": 1779775371.0
-  },
-  {
-    "title": "【朗報】夏のボーナスの平均が100万円超える",
-    "url": "http://blog.livedoor.jp/news23vip/archives/6243632.html",
-    "blog_title": "VIPPERな俺",
-    "date": "2026-05-26 06:00",
-    "timestamp": 1779775253.0
-  },
-  {
-    "title": "【悲報】雑誌『ダ・ヴィンチ』休刊へ",
-    "url": "http://blog.livedoor.jp/goldennews/archives/52303146.html",
+    "title": "なんか攻殻機動隊ってたくさんあってわかんないだけど",
+    "url": "http://blog.livedoor.jp/goldennews/archives/52303175.html",
     "blog_title": "ゴールデンタイムズ",
-    "date": "2026-05-26 05:56",
-    "timestamp": 1779775016.0
+    "date": "2026-05-26 13:39",
+    "timestamp": 1779802741.0
   },
   {
-    "title": "【悲報】巨人阿部監督の娘の手紙、全文公開",
-    "url": "https://alfalfalfa.com/articles/11043979.html",
+    "title": "男性さん、セメントを被り死亡",
+    "url": "http://blog.livedoor.jp/news23vip/archives/6243653.html",
+    "blog_title": "VIPPERな俺",
+    "date": "2026-05-26 13:30",
+    "timestamp": 1779802228.0
+  },
+  {
+    "title": "【悲報】娘「警察が来て1番驚いたのは自分だし、父が警察に連行された姿を見て泣き崩れてしまいました」",
+    "url": "http://blog.livedoor.jp/kinisoku/archives/5681233.html",
+    "blog_title": "キニ速",
+    "date": "2026-05-26 13:30",
+    "timestamp": 1779802218.0
+  },
+  {
+    "title": "掃除のおばちゃん、この隠しカメラに気がつく",
+    "url": "https://alfalfalfa.com/articles/11044145.html",
     "blog_title": "アルファルファモザイク＠ネットニュースのまとめ",
-    "date": "2026-05-26 05:50",
-    "timestamp": 1779774600.0
+    "date": "2026-05-26 13:20",
+    "timestamp": 1779801639.0
+  },
+  {
+    "title": "友達に誘われて初めてサバゲーやったけど楽しいね！",
+    "url": "http://blog.livedoor.jp/goldennews/archives/52303174.html",
+    "blog_title": "ゴールデンタイムズ",
+    "date": "2026-05-26 13:12",
+    "timestamp": 1779801142.0
+  },
+  {
+    "title": "【HotTweets】糖尿病治療薬でマンジャロダイエットを事業化した溝口界隈　運営会社が謎すぎると話題に",
+    "url": "https://alfalfalfa.com/articles/11044004.html",
+    "blog_title": "アルファルファモザイク＠ネットニュースのまとめ",
+    "date": "2026-05-26 13:10",
+    "timestamp": 1779801029.0
+  },
+  {
+    "title": "【埼玉】女性客にわいせつ行為、エステサロン「ご褒美処　至福のひととき」経営者の男を逮捕　「施術中にむらむらして触った」",
+    "url": "https://itainews.com/archives/2062893.html",
+    "blog_title": "痛いニュース(ﾉ∀`)",
+    "date": "2026-05-26 13:01",
+    "timestamp": 1779800465.0
+  },
+  {
+    "title": "【悲報】あの（29）、対応をちょっと間違えただけなのに本当に消えそう",
+    "url": "http://blog.livedoor.jp/kinisoku/archives/5681173.html",
+    "blog_title": "キニ速",
+    "date": "2026-05-26 13:00",
+    "timestamp": 1779800450.0
+  },
+  {
+    "title": "小佐内ゆき「私もプリキュアとコラボしたいの」",
+    "url": "http://blog.livedoor.jp/goldennews/archives/52303160.html",
+    "blog_title": "ゴールデンタイムズ",
+    "date": "2026-05-26 12:57",
+    "timestamp": 1779800226.0
+  },
+  {
+    "title": "AIを使いこなせないチームみらい安野貴博さん　AIにすらバカにされるゴミ政策を発表して炎上中",
+    "url": "https://hamusoku.com/archives/11002523.html",
+    "blog_title": "ハムスター速報",
+    "date": "2026-05-26 12:53",
+    "timestamp": 1779799988.0
+  },
+  {
+    "title": "【たんプリ】こうやって見ると明智デカいな",
+    "url": "http://blog.livedoor.jp/goldennews/archives/52303158.html",
+    "blog_title": "ゴールデンタイムズ",
+    "date": "2026-05-26 12:39",
+    "timestamp": 1779799190.0
+  },
+  {
+    "title": "【画像】不気味すぎるロゴマーク、ガチで怖いのあるよな…",
+    "url": "https://nwknews.jp/archives/6243672.html",
+    "blog_title": "哲学ニュースnwk",
+    "date": "2026-05-26 12:31",
+    "timestamp": 1779798685.0
+  },
+  {
+    "title": "【悲報】八村塁のインスタにち●こｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗ",
+    "url": "http://blog.livedoor.jp/kinisoku/archives/5681215.html",
+    "blog_title": "キニ速",
+    "date": "2026-05-26 12:30",
+    "timestamp": 1779798644.0
+  },
+  {
+    "title": "【朗報】ドラゴンクエスト12「選ばれし運命の炎」発売決定wwwwwwwwwwww",
+    "url": "https://alfalfalfa.com/articles/11044123.html",
+    "blog_title": "アルファルファモザイク＠ネットニュースのまとめ",
+    "date": "2026-05-26 12:10",
+    "timestamp": 1779797426.0
+  },
+  {
+    "title": "引きこもりの平均年齢36.9歳　60代の当事者👴を90代の親👵が支えるケースも",
+    "url": "https://itainews.com/archives/2062884.html",
+    "blog_title": "痛いニュース(ﾉ∀`)",
+    "date": "2026-05-26 12:02",
+    "timestamp": 1779796952.0
+  },
+  {
+    "title": "阿部の年俸1億5千万ｗｗｗｗｗｗｗｗｗｗｗｗ",
+    "url": "http://blog.livedoor.jp/news23vip/archives/6243649.html",
+    "blog_title": "VIPPERな俺",
+    "date": "2026-05-26 12:00",
+    "timestamp": 1779796834.0
+  },
+  {
+    "title": "【画像】瀬戸環奈さん、距離感バグ女だったｗｗｗｗｗ",
+    "url": "http://blog.livedoor.jp/kinisoku/archives/5681163.html",
+    "blog_title": "キニ速",
+    "date": "2026-05-26 12:00",
+    "timestamp": 1779796807.0
+  },
+  {
+    "title": "【朗報】Jリーグ秋田新スタジアム、3者が合意",
+    "url": "https://alfalfalfa.com/articles/11044119.html",
+    "blog_title": "アルファルファモザイク＠ネットニュースのまとめ",
+    "date": "2026-05-26 11:50",
+    "timestamp": 1779796256.0
+  },
+  {
+    "title": "家庭用ゲーム大手、3月期決算は6社中4社がゲーム事業増益",
+    "url": "http://blog.livedoor.jp/goldennews/archives/52303164.html",
+    "blog_title": "ゴールデンタイムズ",
+    "date": "2026-05-26 11:50",
+    "timestamp": 1779796200.0
+  },
+  {
+    "title": "【動画】美人店員のラーメン屋、うまそうｗｗｗｗｗｗ【Pickup】",
+    "url": "https://alfalfalfa.com/articles/11043917.html",
+    "blog_title": "アルファルファモザイク＠ネットニュースのまとめ",
+    "date": "2026-05-26 11:40",
+    "timestamp": 1779795600.0
+  },
+  {
+    "title": "工事現場で「セメントかぶって息をしていない」作業中の男性２人が死亡　滋賀・草津市",
+    "url": "https://itainews.com/archives/2062902.html",
+    "blog_title": "痛いニュース(ﾉ∀`)",
+    "date": "2026-05-26 11:31",
+    "timestamp": 1779795089.0
+  },
+  {
+    "title": "【悲報】X民「若い日本人女性はどんどん白人と結婚すべき」ｗｗｗ",
+    "url": "http://blog.livedoor.jp/kinisoku/archives/5681216.html",
+    "blog_title": "キニ速",
+    "date": "2026-05-26 11:30",
+    "timestamp": 1779795055.0
+  },
+  {
+    "title": "【滋賀】地下12mで作業中の28歳・26歳男性にセメント流入…2人とも死亡　業務上過失致死も視野",
+    "url": "https://nwknews.jp/archives/6243667.html",
+    "blog_title": "哲学ニュースnwk",
+    "date": "2026-05-26 11:05",
+    "timestamp": 1779793512.0
+  },
+  {
+    "title": "ソウルシンガー、ZOOCO、災害時のために備蓄していたバッテリーが爆発、自宅が全焼「ただ置いていただけで…」",
+    "url": "https://itainews.com/archives/2062876.html",
+    "blog_title": "痛いニュース(ﾉ∀`)",
+    "date": "2026-05-26 11:03",
+    "timestamp": 1779793427.0
+  },
+  {
+    "title": "マクドナルド店頭の注文端末が使いにくいと物議に　広報「アップデートを行っているところ」",
+    "url": "https://itainews.com/archives/2062895.html",
+    "blog_title": "痛いニュース(ﾉ∀`)",
+    "date": "2026-05-26 10:31",
+    "timestamp": 1779791503.0
+  },
+  {
+    "title": "イングランドサッカーのアジア人差別、ついに海外に見つかる",
+    "url": "http://blog.livedoor.jp/news23vip/archives/6243647.html",
+    "blog_title": "VIPPERな俺",
+    "date": "2026-05-26 10:30",
+    "timestamp": 1779791428.0
+  },
+  {
+    "title": "VRChat　女装男子の巣窟だった",
+    "url": "https://hamusoku.com/archives/10999976.html",
+    "blog_title": "ハムスター速報",
+    "date": "2026-05-26 10:03",
+    "timestamp": 1779789780.0
+  },
+  {
+    "title": "「死ぬまでに見るべき映画」ってある？",
+    "url": "https://nwknews.jp/archives/6243661.html",
+    "blog_title": "哲学ニュースnwk",
+    "date": "2026-05-26 09:48",
+    "timestamp": 1779788886.0
+  },
+  {
+    "title": "パソコンの価格、この1か月で30％上昇",
+    "url": "http://blog.livedoor.jp/news23vip/archives/6243646.html",
+    "blog_title": "VIPPERな俺",
+    "date": "2026-05-26 09:00",
+    "timestamp": 1779786010.0
+  },
+  {
+    "title": "日本でもAndroidスマホを使う人が増えてきた←これ",
+    "url": "http://blog.livedoor.jp/news23vip/archives/6243633.html",
+    "blog_title": "VIPPERな俺",
+    "date": "2026-05-26 07:30",
+    "timestamp": 1779780610.0
+  },
+  {
+    "title": "調子に乗ったキャバ嬢さん達「キャバ嬢になりたい動機が弱い」一般人に上から目線で説教",
+    "url": "https://hamusoku.com/archives/11002450.html",
+    "blog_title": "ハムスター速報",
+    "date": "2026-05-26 07:19",
+    "timestamp": 1779779992.0
+  },
+  {
+    "title": "落合博満「不祥事皆無です。3冠王3回です。監督在任8年で優勝4回です。子供の教育も完璧です」",
+    "url": "https://nwknews.jp/archives/6243642.html",
+    "blog_title": "哲学ニュースnwk",
+    "date": "2026-05-26 07:00",
+    "timestamp": 1779778801.0
   },
   {
     "title": "チームみらい安野貴博さん　資産４０億円の無職に給付金６万円配布すると宣言",
@@ -63,48 +231,6 @@
     "timestamp": 1779774310.0
   },
   {
-    "title": "中道で落選した江田憲司さん、正気に戻る…「敗因は選挙目当てで受け皿作りをした姑息さだ」",
-    "url": "https://itainews.com/archives/2062866.html",
-    "blog_title": "痛いニュース(ﾉ∀`)",
-    "date": "2026-05-26 05:31",
-    "timestamp": 1779773479.0
-  },
-  {
-    "title": "シャチって可愛いし賢いし無敵だよね",
-    "url": "http://blog.livedoor.jp/goldennews/archives/52303142.html",
-    "blog_title": "ゴールデンタイムズ",
-    "date": "2026-05-26 05:25",
-    "timestamp": 1779773136.0
-  },
-  {
-    "title": "【悲報】松本人志さん＆ヒカルさん、立川志らくさんに“弟子入り”を嘆願してしまうｗｗｗｗｗ",
-    "url": "https://alfalfalfa.com/articles/11043912.html",
-    "blog_title": "アルファルファモザイク＠ネットニュースのまとめ",
-    "date": "2026-05-26 05:15",
-    "timestamp": 1779772543.0
-  },
-  {
-    "title": "【画像】美人JD「すき家のローストビーフ丼1人で食べてきた！」←合成みたいと話題にｗｗｗ【Pickup】",
-    "url": "https://alfalfalfa.com/articles/11043911.html",
-    "blog_title": "アルファルファモザイク＠ネットニュースのまとめ",
-    "date": "2026-05-26 05:05",
-    "timestamp": 1779771957.0
-  },
-  {
-    "title": "【悲報】指名手配犯「人殺した」　兵庫県警「はいはい話が噛み合わないから事件性なしね」",
-    "url": "https://itainews.com/archives/2062845.html",
-    "blog_title": "痛いニュース(ﾉ∀`)",
-    "date": "2026-05-26 05:03",
-    "timestamp": 1779771801.0
-  },
-  {
-    "title": "【悲報】おサナ、テレ朝記者に「質問は全社で一度」とバラされちょっとだけプンプンwwwwwwwwww",
-    "url": "http://blog.livedoor.jp/kinisoku/archives/5681134.html",
-    "blog_title": "キニ速",
-    "date": "2026-05-26 05:01",
-    "timestamp": 1779771715.0
-  },
-  {
     "title": "【悲報】阿部慎之助の娘(18)、父に叩かれChatGPTへ相談→「児相に通報を」と返答→警察沙汰になり監督辞任へ…",
     "url": "https://nwknews.jp/archives/6243637.html",
     "blog_title": "哲学ニュースnwk",
@@ -112,136 +238,10 @@
     "timestamp": 1779771644.0
   },
   {
-    "title": "旭川女子高生殺害事件、初公判　被告の女「殺意なかった」",
-    "url": "http://blog.livedoor.jp/goldennews/archives/52303138.html",
-    "blog_title": "ゴールデンタイムズ",
-    "date": "2026-05-26 04:53",
-    "timestamp": 1779771183.0
-  },
-  {
-    "title": "【悲報】羽月隆太郎さん、暴露配信のハードルが上がりまくる → これで微妙だったらガチで終わる模様……",
-    "url": "https://alfalfalfa.com/articles/11043899.html",
-    "blog_title": "アルファルファモザイク＠ネットニュースのまとめ",
-    "date": "2026-05-26 04:40",
-    "timestamp": 1779770453.0
-  },
-  {
-    "title": "尾田栄一郎「来週から2年くらいかけてブルックの過去編やります」",
-    "url": "http://blog.livedoor.jp/news23vip/archives/6243630.html",
-    "blog_title": "VIPPERな俺",
-    "date": "2026-05-26 04:30",
-    "timestamp": 1779769859.0
-  },
-  {
-    "title": "【悲報】江別大学生リンチ殺人の生々しい暴行音声、法廷で流される",
-    "url": "http://blog.livedoor.jp/kinisoku/archives/5681127.html",
-    "blog_title": "キニ速",
-    "date": "2026-05-26 04:20",
-    "timestamp": 1779769230.0
-  },
-  {
-    "title": "雄琴にある某ソープランド行ってきたんやがヤバすぎたｗｗｗｗ",
-    "url": "http://blog.livedoor.jp/kinisoku/archives/5680863.html",
-    "blog_title": "キニ速",
-    "date": "2026-05-26 03:50",
-    "timestamp": 1779767451.0
-  },
-  {
     "title": "【巨人】阿部慎之助監督が辞任　ChatGPTのアドバイスにより長女が児相に通報",
     "url": "https://hamusoku.com/archives/11002426.html",
     "blog_title": "ハムスター速報",
     "date": "2026-05-26 03:32",
     "timestamp": 1779766329.0
-  },
-  {
-    "title": "阿部監督、殴られた娘がChatGPT相談→通報→監督辞任へ",
-    "url": "http://blog.livedoor.jp/kinisoku/archives/5681119.html",
-    "blog_title": "キニ速",
-    "date": "2026-05-26 03:20",
-    "timestamp": 1779765618.0
-  },
-  {
-    "title": "【悲報】セクシー女優さん　料理を作って批判をされる",
-    "url": "http://blog.livedoor.jp/news23vip/archives/6243628.html",
-    "blog_title": "VIPPERな俺",
-    "date": "2026-05-26 03:00",
-    "timestamp": 1779764459.0
-  },
-  {
-    "title": "【悲報】「日本人の民度、落ちたよな…」って感じる瞬間ある？",
-    "url": "https://nwknews.jp/archives/6243629.html",
-    "blog_title": "哲学ニュースnwk",
-    "date": "2026-05-26 03:00",
-    "timestamp": 1779764433.0
-  },
-  {
-    "title": "Amazon、夢の祭典「Kindle本 33円セール」まだあった！魅惑の33円本がこちら！！",
-    "url": "http://blog.livedoor.jp/goldennews/archives/52303136.html",
-    "blog_title": "ゴールデンタイムズ",
-    "date": "2026-05-26 02:39",
-    "timestamp": 1779763186.0
-  },
-  {
-    "title": "糖尿病治療薬でマンジャロダイエットを事業化した溝口界隈　運営会社が謎すぎると話題に",
-    "url": "https://hamusoku.com/archives/10997562.html",
-    "blog_title": "ハムスター速報",
-    "date": "2026-05-26 02:29",
-    "timestamp": 1779762553.0
-  },
-  {
-    "title": "餓狼伝説「ロナウド！ケンシロウ！」鉄拳「範馬勇次郎！FFの主人公の人！」スト6「あわわ…」",
-    "url": "http://blog.livedoor.jp/goldennews/archives/52303124.html",
-    "blog_title": "ゴールデンタイムズ",
-    "date": "2026-05-26 02:12",
-    "timestamp": 1779761543.0
-  },
-  {
-    "title": "CoCo壱社長(24)「なんでみんなCoCo壱こなくなったの」",
-    "url": "http://blog.livedoor.jp/news23vip/archives/6243626.html",
-    "blog_title": "VIPPERな俺",
-    "date": "2026-05-26 01:30",
-    "timestamp": 1779759044.0
-  },
-  {
-    "title": "待っているのに続編が出ないアニメといえば",
-    "url": "https://nwknews.jp/archives/6243627.html",
-    "blog_title": "哲学ニュースnwk",
-    "date": "2026-05-26 01:00",
-    "timestamp": 1779757204.0
-  },
-  {
-    "title": "公立小学校が外国人移民によって学級崩壊し成績が急降下　日本人児童の教育を受ける権利が侵害されている現実",
-    "url": "https://hamusoku.com/archives/10997561.html",
-    "blog_title": "ハムスター速報",
-    "date": "2026-05-26 00:43",
-    "timestamp": 1779756182.0
-  },
-  {
-    "title": "記者「ドラクエ12の件ですが…」　スクエニ「その話はやめましょう」",
-    "url": "http://blog.livedoor.jp/news23vip/archives/6243625.html",
-    "blog_title": "VIPPERな俺",
-    "date": "2026-05-26 00:15",
-    "timestamp": 1779754501.0
-  },
-  {
-    "title": "【悲報】阿部慎之助一家、全員「一瞬の感情」で人生ぶっ壊してしまう…誰も得してない件…",
-    "url": "https://nwknews.jp/archives/6243623.html",
-    "blog_title": "哲学ニュースnwk",
-    "date": "2026-05-25 23:48",
-    "timestamp": 1779752919.0
-  },
-  {
-    "title": "【疑問】日本のバトル漫画、結局「血筋・才能持ち主人公」が勝つ作品ばかりになってないか？",
-    "url": "https://nwknews.jp/archives/6243618.html",
-    "blog_title": "哲学ニュースnwk",
-    "date": "2026-05-25 22:52",
-    "timestamp": 1779749551.0
-  },
-  {
-    "title": "中国人ポケカ偽造集団　買取店に偽造カードパックを持ち込み買取させることに成功　ポケカ市場に中国偽造カードが混入へ",
-    "url": "https://hamusoku.com/archives/10997359.html",
-    "blog_title": "ハムスター速報",
-    "date": "2026-05-25 22:18",
-    "timestamp": 1779747481.0
   }
 ]
