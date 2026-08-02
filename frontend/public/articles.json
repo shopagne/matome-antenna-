@@ -1,38 +1,164 @@
 [
   {
+    "title": "中国人、タイ人とタイ王朝を「猿」呼ばわり",
+    "url": "https://itainews.com/archives/2065575.html",
+    "blog_title": "痛いニュース(ﾉ∀`)",
+    "date": "2026-08-02 08:02",
+    "timestamp": 1785657774.0
+  },
+  {
+    "title": "バカ「蕎麦はつゆを半分だけで食べる」",
+    "url": "http://blog.livedoor.jp/news23vip/archives/6251675.html",
+    "blog_title": "VIPPERな俺",
+    "date": "2026-08-02 07:44",
+    "timestamp": 1785656642.0
+  },
+  {
+    "title": "任天堂「めっちゃカメレオン人気でイラつくなぁ……せや！」",
+    "url": "http://blog.livedoor.jp/kinisoku/archives/5696338.html",
+    "blog_title": "キニ速",
+    "date": "2026-08-02 07:41",
+    "timestamp": 1785656478.0
+  },
+  {
+    "title": "まいばすけっとの時給、とんでもないことになるｗｗｗｗｗｗｗ",
+    "url": "http://blog.livedoor.jp/goldennews/archives/52306175.html",
+    "blog_title": "ゴールデンタイムズ",
+    "date": "2026-08-02 07:39",
+    "timestamp": 1785656346.0
+  },
+  {
+    "title": "【悲報】花火大会のボランティア、100人想定も応募はわずか8人…島根県",
+    "url": "https://alfalfalfa.com/articles/11094395.html",
+    "blog_title": "アルファルファモザイク＠ネットニュースのまとめ",
+    "date": "2026-08-02 07:33",
+    "timestamp": 1785655988.0
+  },
+  {
+    "title": "【動画】「家庭環境あるある」を披露したYouTuberさん　←がちかわいいと話題にｗｗｗ 【Pickup01121246】",
+    "url": "https://alfalfalfa.com/articles/11093968.html",
+    "blog_title": "アルファルファモザイク＠ネットニュースのまとめ",
+    "date": "2026-08-02 07:23",
+    "timestamp": 1785655420.0
+  },
+  {
+    "title": "伊豆諸島航路の「東海汽船」、事業停止措置へ　乗組員の飲酒当直や替え玉検査など法令違反連発",
+    "url": "http://blog.livedoor.jp/goldennews/archives/52306174.html",
+    "blog_title": "ゴールデンタイムズ",
+    "date": "2026-08-02 07:12",
+    "timestamp": 1785654757.0
+  },
+  {
+    "title": "【悲報】米卸、米価格の下落に危機感「年末には5キロ2000円を切ってしまうのでは」",
+    "url": "http://blog.livedoor.jp/kinisoku/archives/5696321.html",
+    "blog_title": "キニ速",
+    "date": "2026-08-02 07:07",
+    "timestamp": 1785654423.0
+  },
+  {
+    "title": "【千葉】未明に「ガスくさい」連絡ありガス会社が現地対応も 詳細は明らかにせず　市川市のマンションで爆発　男性2人重軽傷",
+    "url": "https://itainews.com/archives/2065574.html",
+    "blog_title": "痛いニュース(ﾉ∀`)",
+    "date": "2026-08-02 07:03",
+    "timestamp": 1785654205.0
+  },
+  {
+    "title": "今田耕司、レーシックに否定的なワケ「だって眼科行ってみ？ほぼ先生メガネやから」「全員信用してないやん」",
+    "url": "https://alfalfalfa.com/articles/11094389.html",
+    "blog_title": "アルファルファモザイク＠ネットニュースのまとめ",
+    "date": "2026-08-02 07:02",
+    "timestamp": 1785654150.0
+  },
+  {
+    "title": "味・量・値段・手軽さを全部込みで、一番コスパ＆タイパがいい食べ物って何？",
+    "url": "https://nwknews.jp/archives/6251666.html",
+    "blog_title": "哲学ニュースnwk",
+    "date": "2026-08-02 07:00",
+    "timestamp": 1785654045.0
+  },
+  {
+    "title": "【ハム速公認Youtuber】俺達のコムドットの生歌ｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗ",
+    "url": "https://hamusoku.com/archives/11026007.html",
+    "blog_title": "ハムスター速報",
+    "date": "2026-08-02 06:49",
+    "timestamp": 1785653387.0
+  },
+  {
+    "title": "【悲報】 Xboxシリーズ、約3万円ずつ値上げ",
+    "url": "http://blog.livedoor.jp/goldennews/archives/52306173.html",
+    "blog_title": "ゴールデンタイムズ",
+    "date": "2026-08-02 06:39",
+    "timestamp": 1785652776.0
+  },
+  {
+    "title": "トランプ大統領「イランと合意した。大規模攻撃を中止する」",
+    "url": "https://alfalfalfa.com/articles/11094366.html",
+    "blog_title": "アルファルファモザイク＠ネットニュースのまとめ",
+    "date": "2026-08-02 06:30",
+    "timestamp": 1785652223.0
+  },
+  {
+    "title": "【悲報】米卸、米価格の下落に危機感「年末には5キロ2000円を切ってしまうのでは」",
+    "url": "https://itainews.com/archives/2065571.html",
+    "blog_title": "痛いニュース(ﾉ∀`)",
+    "date": "2026-08-02 06:30",
+    "timestamp": 1785652219.0
+  },
+  {
+    "title": "【画像】まいばすけっとの時給、とんでもないことになるＷＷＷＷＷＷＷＷＷＷＷＷＷ",
+    "url": "http://blog.livedoor.jp/kinisoku/archives/5696315.html",
+    "blog_title": "キニ速",
+    "date": "2026-08-02 06:24",
+    "timestamp": 1785651874.0
+  },
+  {
+    "title": "就職難に苦しむ韓国の若者が日本に注目",
+    "url": "https://itainews.com/archives/2065570.html",
+    "blog_title": "痛いニュース(ﾉ∀`)",
+    "date": "2026-08-02 06:03",
+    "timestamp": 1785650622.0
+  },
+  {
+    "title": "【悲報】集英社「HxHの最新動画を投稿します！」お前ら「暗黒大陸編アニメ化きたあああ！！」→結果ｗｗｗｗｗｗ",
+    "url": "http://blog.livedoor.jp/kinisoku/archives/5696327.html",
+    "blog_title": "キニ速",
+    "date": "2026-08-02 05:49",
+    "timestamp": 1785649789.0
+  },
+  {
+    "title": "セクシー「エアコン300台お待ち！」避難所「あの…電源は…」",
+    "url": "https://alfalfalfa.com/articles/11094354.html",
+    "blog_title": "アルファルファモザイク＠ネットニュースのまとめ",
+    "date": "2026-08-02 05:35",
+    "timestamp": 1785648927.0
+  },
+  {
+    "title": "【社会】「植松の気持ちが分かる」…特徴的な顔つきや知的障害の子を産むのはリスク？　国が進める「プレコン」に潜む問題点とは",
+    "url": "https://itainews.com/archives/2065568.html",
+    "blog_title": "痛いニュース(ﾉ∀`)",
+    "date": "2026-08-02 05:31",
+    "timestamp": 1785648666.0
+  },
+  {
+    "title": "【悲報】みいちゃん、テレビアニメじゃなくなる😭",
+    "url": "https://nwknews.jp/archives/6251662.html",
+    "blog_title": "哲学ニュースnwk",
+    "date": "2026-08-02 05:24",
+    "timestamp": 1785648277.0
+  },
+  {
+    "title": "みいちゃんと山田さん　炎上の末にTVアニメ化が怪しくなっていた",
+    "url": "https://hamusoku.com/archives/11026001.html",
+    "blog_title": "ハムスター速報",
+    "date": "2026-08-02 05:16",
+    "timestamp": 1785647774.0
+  },
+  {
     "title": "老人「エアコンは高すぎる、ワシらの熱中症対策はこれじゃよ」",
     "url": "http://blog.livedoor.jp/kinisoku/archives/5696325.html",
     "blog_title": "キニ速",
     "date": "2026-08-02 05:10",
     "timestamp": 1785647409.0
-  },
-  {
-    "title": "【画像】台風13号、それるｗｗｗ",
-    "url": "https://alfalfalfa.com/articles/11094351.html",
-    "blog_title": "アルファルファモザイク＠ネットニュースのまとめ",
-    "date": "2026-08-02 05:02",
-    "timestamp": 1785646975.0
-  },
-  {
-    "title": "小泉純一郎「48、49はギリギリセーフ。但し50になっても結婚してないやつは変人」",
-    "url": "https://itainews.com/archives/2065569.html",
-    "blog_title": "痛いニュース(ﾉ∀`)",
-    "date": "2026-08-02 05:02",
-    "timestamp": 1785646924.0
-  },
-  {
-    "title": "【ﾖﾂﾝｳﾞｧｲﾝ】「人に見てもらいたかった」JR宇多津駅構内で臀部を露出　高松市の無職の男（50）を逮捕【香川】",
-    "url": "https://itainews.com/archives/2065564.html",
-    "blog_title": "痛いニュース(ﾉ∀`)",
-    "date": "2026-08-02 04:31",
-    "timestamp": 1785645102.0
-  },
-  {
-    "title": "【訃報】清水アキラの息子(37)、清水良太郎さんが死去…自殺の可能性…",
-    "url": "https://alfalfalfa.com/articles/11094346.html",
-    "blog_title": "アルファルファモザイク＠ネットニュースのまとめ",
-    "date": "2026-08-02 04:30",
-    "timestamp": 1785645022.0
   },
   {
     "title": "ミステリーの許されない展開四天王「犯人が口を滑らす」「全員共犯」「犯人が双子」「建物が特殊構造」",
@@ -42,39 +168,11 @@
     "timestamp": 1785644487.0
   },
   {
-    "title": "【悲報】ポケカショップ「新弾を大量高額買取します！」→転売を助長していると批判殺到ｗｗｗｗ",
-    "url": "http://blog.livedoor.jp/kinisoku/archives/5696296.html",
-    "blog_title": "キニ速",
-    "date": "2026-08-02 04:20",
-    "timestamp": 1785644435.0
-  },
-  {
     "title": "ロシアウクライナ戦争、『前線でただロシア兵が無人ドローンに殺戮されてるだけ』という謎の状態に",
     "url": "http://blog.livedoor.jp/goldennews/archives/52306169.html",
     "blog_title": "ゴールデンタイムズ",
     "date": "2026-08-02 04:12",
     "timestamp": 1785643978.0
-  },
-  {
-    "title": "辺野古で活動家ら５９０人（主催者発表）集会　辺野古住民に対し「あんた方の考えは間違っている」",
-    "url": "https://itainews.com/archives/2065560.html",
-    "blog_title": "痛いニュース(ﾉ∀`)",
-    "date": "2026-08-02 04:01",
-    "timestamp": 1785643302.0
-  },
-  {
-    "title": "【悲報】ヤンマガ編集部のエリートイケメンさん、ネットで顔が拡散されすぎてしまう……",
-    "url": "https://alfalfalfa.com/articles/11094266.html",
-    "blog_title": "アルファルファモザイク＠ネットニュースのまとめ",
-    "date": "2026-08-02 04:00",
-    "timestamp": 1785643258.0
-  },
-  {
-    "title": "【画像】有名人妻AV女優(43)と行く狩りバスツアーWWWWWWWWWWWWWWWWW",
-    "url": "http://blog.livedoor.jp/kinisoku/archives/5696197.html",
-    "blog_title": "キニ速",
-    "date": "2026-08-02 03:52",
-    "timestamp": 1785642758.0
   },
   {
     "title": "この時期になるとかき氷機欲しくなって価格見て諦めるを繰り返してる",
@@ -91,41 +189,6 @@
     "timestamp": 1785641936.0
   },
   {
-    "title": "山本ジョージ新代表「衆院選惨敗の原因は、れいわへの攻撃と中傷動画のせいです！」",
-    "url": "https://itainews.com/archives/2065557.html",
-    "blog_title": "痛いニュース(ﾉ∀`)",
-    "date": "2026-08-02 03:31",
-    "timestamp": 1785641469.0
-  },
-  {
-    "title": "【画像】女性配信者「みいちゃん」、再現度が高すぎて実写化を疑われるｗｗｗｗ",
-    "url": "https://alfalfalfa.com/articles/11094047.html",
-    "blog_title": "アルファルファモザイク＠ネットニュースのまとめ",
-    "date": "2026-08-02 03:30",
-    "timestamp": 1785641403.0
-  },
-  {
-    "title": "【動画】地下アイドルの鼠径部、限界突破",
-    "url": "http://blog.livedoor.jp/kinisoku/archives/5696210.html",
-    "blog_title": "キニ速",
-    "date": "2026-08-02 03:23",
-    "timestamp": 1785641034.0
-  },
-  {
-    "title": "【画像】最強の美魔女(38)さん、この人から渡されたコーヒーめちゃ美味しく感じそうと話題に 【Pickup01121254】",
-    "url": "https://alfalfalfa.com/articles/11093970.html",
-    "blog_title": "アルファルファモザイク＠ネットニュースのまとめ",
-    "date": "2026-08-02 03:20",
-    "timestamp": 1785640818.0
-  },
-  {
-    "title": "虫捕りヤクねこ、なんかいいよな",
-    "url": "http://blog.livedoor.jp/goldennews/archives/52306146.html",
-    "blog_title": "ゴールデンタイムズ",
-    "date": "2026-08-02 03:12",
-    "timestamp": 1785640320.0
-  },
-  {
     "title": "【悲報】ワイ、バイクツーリングに行こうとするも暑過ぎて帰宅する",
     "url": "http://blog.livedoor.jp/news23vip/archives/6251651.html",
     "blog_title": "VIPPERな俺",
@@ -133,39 +196,11 @@
     "timestamp": 1785640015.0
   },
   {
-    "title": "日本などのSNSを埋め尽くす「釜山病」とは？「ソウル病」に続く新ワード！",
-    "url": "https://itainews.com/archives/2065555.html",
-    "blog_title": "痛いニュース(ﾉ∀`)",
-    "date": "2026-08-02 03:01",
-    "timestamp": 1785639690.0
-  },
-  {
-    "title": "【画像】めざましテレビで激シコ恵体爆乳wｗｗｗｗ",
-    "url": "http://blog.livedoor.jp/kinisoku/archives/5696283.html",
-    "blog_title": "キニ速",
-    "date": "2026-08-02 03:00",
-    "timestamp": 1785639624.0
-  },
-  {
     "title": "【波紋】消費税減税に反対した自民党議員10人がこちら",
     "url": "https://nwknews.jp/archives/6251646.html",
     "blog_title": "哲学ニュースnwk",
     "date": "2026-08-02 02:22",
     "timestamp": 1785637373.0
-  },
-  {
-    "title": "イオン北海道、「お盆でBON！キャンペーン」からBON！を削除",
-    "url": "http://blog.livedoor.jp/goldennews/archives/52306164.html",
-    "blog_title": "ゴールデンタイムズ",
-    "date": "2026-08-02 02:12",
-    "timestamp": 1785636766.0
-  },
-  {
-    "title": "【悲報】ステーキの焼き方、マジで正解がわからない",
-    "url": "http://blog.livedoor.jp/goldennews/archives/52305823.html",
-    "blog_title": "ゴールデンタイムズ",
-    "date": "2026-08-02 02:12",
-    "timestamp": 1785636720.0
   },
   {
     "title": "世界的にまじめに働く層が理不尽すぎる扱いを受けている現実　ドイツでは”稼ぐと手取りが減るトラップ”まで用意されていた",
@@ -203,45 +238,10 @@
     "timestamp": 1785629568.0
   },
   {
-    "title": "【疑問】神を好意的に受け入れて信仰してる奴、正直理解できないんだが・・・",
-    "url": "https://nwknews.jp/archives/6251627.html",
-    "blog_title": "哲学ニュースnwk",
-    "date": "2026-08-01 23:12",
-    "timestamp": 1785625957.0
-  },
-  {
     "title": "【画像】みい山作者、ガチで病んでる模様。そろそろ許してやろうぜ！",
     "url": "http://blog.livedoor.jp/news23vip/archives/6251614.html",
     "blog_title": "VIPPERな俺",
     "date": "2026-08-01 22:30",
     "timestamp": 1785623432.0
-  },
-  {
-    "title": "みいちゃんと山田さんアニメ化により差別派や表現規制派等々で激論の中　ヤンマガ編集部の発言がヤバすぎて炎上",
-    "url": "https://hamusoku.com/archives/11025904.html",
-    "blog_title": "ハムスター速報",
-    "date": "2026-08-01 22:02",
-    "timestamp": 1785621735.0
-  },
-  {
-    "title": "イカの塩辛が美味しい",
-    "url": "http://blog.livedoor.jp/news23vip/archives/6251543.html",
-    "blog_title": "VIPPERな俺",
-    "date": "2026-08-01 21:00",
-    "timestamp": 1785618046.0
-  },
-  {
-    "title": "【画像】何回見ても笑ってしまう画像貼っていけｗｗｗｗｗｗｗｗ",
-    "url": "https://nwknews.jp/archives/6251608.html",
-    "blog_title": "哲学ニュースnwk",
-    "date": "2026-08-01 16:00",
-    "timestamp": 1785600005.0
-  },
-  {
-    "title": "親父が５回目の結婚するらしいんやが",
-    "url": "https://hamusoku.com/archives/11024582.html",
-    "blog_title": "ハムスター速報",
-    "date": "2026-08-01 14:34",
-    "timestamp": 1785594840.0
   }
 ]
