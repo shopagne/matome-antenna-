@@ -1,59 +1,178 @@
 [
   {
+    "title": "フランス政府「高校生デモを取り締まれ😡」警察「一斉辞職してデモ参加します🫡」",
+    "url": "https://itainews.com/archives/2068063.html",
+    "blog_title": "痛いニュース(ﾉ∀`)",
+    "date": "2026-10-07 01:01",
+    "timestamp": 1791334887.0
+  },
+  {
+    "title": "【謎】ラーメンオタクって、なんで一癖ある人が多いんや？",
+    "url": "https://nwknews.jp/archives/6261834.html",
+    "blog_title": "哲学ニュースnwk",
+    "date": "2026-10-07 01:00",
+    "timestamp": 1791334849.0
+  },
+  {
+    "title": "【画像】週刊少年ジャンプのカグラバチ、コピペだらけになる",
+    "url": "https://alfalfalfa.com/articles/11117062.html",
+    "blog_title": "アルファルファモザイク＠ネットニュースのまとめ",
+    "date": "2026-10-07 01:00",
+    "timestamp": 1791334843.0
+  },
+  {
+    "title": "【悲報】令和、「真面目に生きてきた普通の男性」が「30代独身男性」になる時代になってしまう…",
+    "url": "http://blog.livedoor.jp/kinisoku/archives/5712250.html",
+    "blog_title": "キニ速",
+    "date": "2026-10-07 01:00",
+    "timestamp": 1791334834.0
+  },
+  {
+    "title": "【怒り】「海外で出産した」と書類を偽造し出産育児一時金など約1600万円を不正受給か…手口の悪質さと行政のチェック体制に批判殺到「ザルすぎる」「氷山の一角では」",
+    "url": "https://alfalfalfa.com/articles/11117150.html",
+    "blog_title": "アルファルファモザイク＠ネットニュースのまとめ",
+    "date": "2026-10-07 00:30",
+    "timestamp": 1791333040.0
+  },
+  {
+    "title": "ローグライクとかいうゲームジャンルwwwっwwっwwwwwww",
+    "url": "https://news23vip.livedoor.blog/archives/6261994.html",
+    "blog_title": "VIPPERな俺",
+    "date": "2026-10-07 00:28",
+    "timestamp": 1791332905.0
+  },
+  {
+    "title": "ワイ同人作家　あとどれくらい食っていけるんだろうか",
+    "url": "https://hamusoku.com/archives/11045488.html",
+    "blog_title": "ハムスター速報",
+    "date": "2026-10-07 00:25",
+    "timestamp": 1791332707.0
+  },
+  {
+    "title": "【画像】女さん「駐車中に後ろの車にぶつけました…過失割合どうなるのかな…」",
+    "url": "http://blog.livedoor.jp/kinisoku/archives/5712253.html",
+    "blog_title": "キニ速",
+    "date": "2026-10-07 00:20",
+    "timestamp": 1791332453.0
+  },
+  {
+    "title": "スコール「だったら壁にでも話してろよ」←これｗｗｗ",
+    "url": "https://goldennews.blog.jp/archives/52308804.html",
+    "blog_title": "ゴールデンタイムズ",
+    "date": "2026-10-07 00:12",
+    "timestamp": 1791331920.0
+  },
+  {
+    "title": "【話題】ショーンK氏の“現在の姿”を収めた最新動画が大反響！ 公式サイトで現在の職業も明かしネット注目「声はやっぱり唯一無二」「おかえり」の声！",
+    "url": "https://alfalfalfa.com/articles/11117099.html",
+    "blog_title": "アルファルファモザイク＠ネットニュースのまとめ",
+    "date": "2026-10-07 00:00",
+    "timestamp": 1791331249.0
+  },
+  {
+    "title": "渋谷区、路上ハロウィンを完全にぶっ潰すことに成功　「仮装して路上で写真撮るだけでも迷惑行為！」",
+    "url": "https://itainews.com/archives/2068061.html",
+    "blog_title": "痛いニュース(ﾉ∀`)",
+    "date": "2026-10-07 00:00",
+    "timestamp": 1791331204.0
+  },
+  {
+    "title": "急に非通知で電話かかってくるのって普通か？",
+    "url": "https://news23vip.livedoor.blog/archives/6261990.html",
+    "blog_title": "VIPPERな俺",
+    "date": "2026-10-06 23:55",
+    "timestamp": 1791330954.0
+  },
+  {
+    "title": "【悲報】下請けデザイナー「これがクロミのデザイン案です！」サンリオ「うーん、ちょっと違うんだよなぁ…」",
+    "url": "http://blog.livedoor.jp/kinisoku/archives/5712255.html",
+    "blog_title": "キニ速",
+    "date": "2026-10-06 23:40",
+    "timestamp": 1791330016.0
+  },
+  {
+    "title": "【波紋】藤沢市役所に設置された『イスラームの子どもたちを理解するために』パンフレットが物議！「政教分離に反するのでは」「多文化共生には必要」とネットで激論に",
+    "url": "https://alfalfalfa.com/articles/11117138.html",
+    "blog_title": "アルファルファモザイク＠ネットニュースのまとめ",
+    "date": "2026-10-06 23:30",
+    "timestamp": 1791329432.0
+  },
+  {
+    "title": "【画像】テレ朝で超モデル級女子ｗｗｗｗｗｗ【Pickup06132026】",
+    "url": "https://alfalfalfa.com/articles/11116762.html",
+    "blog_title": "アルファルファモザイク＠ネットニュースのまとめ",
+    "date": "2026-10-06 23:20",
+    "timestamp": 1791328833.0
+  },
+  {
+    "title": "外国人「ファーストガンダムは作画綺麗にしたら絶対もっとウケるはずなのになんでしないの」ガノタおぢ「しなくていい！！」",
+    "url": "http://blog.livedoor.jp/kinisoku/archives/5712261.html",
+    "blog_title": "キニ速",
+    "date": "2026-10-06 23:00",
+    "timestamp": 1791327651.0
+  },
+  {
+    "title": "「のり弁にこれ入ってたら嬉しい」っておかず何？",
+    "url": "https://nwknews.jp/archives/6261830.html",
+    "blog_title": "哲学ニュースnwk",
+    "date": "2026-10-06 23:00",
+    "timestamp": 1791327641.0
+  },
+  {
+    "title": "不正アクセス頻発「自分の情報は自分で守って」　古川デジタル相",
+    "url": "https://itainews.com/archives/2068066.html",
+    "blog_title": "痛いニュース(ﾉ∀`)",
+    "date": "2026-10-06 23:00",
+    "timestamp": 1791327618.0
+  },
+  {
+    "title": "【画像】デコ縮小手術をしたイケメンホストさん、血流が無くなり逝くｗｗｗｗｗ",
+    "url": "http://blog.livedoor.jp/kinisoku/archives/5712272.html",
+    "blog_title": "キニ速",
+    "date": "2026-10-06 22:40",
+    "timestamp": 1791326414.0
+  },
+  {
+    "title": "【画像】横浜にありがちな怖い家がこれらしい",
+    "url": "https://goldennews.blog.jp/archives/52308801.html",
+    "blog_title": "ゴールデンタイムズ",
+    "date": "2026-10-06 22:39",
+    "timestamp": 1791326340.0
+  },
+  {
+    "title": "ハリー・ポッターでワイが納得いかないこと",
+    "url": "https://hamusoku.com/archives/11045486.html",
+    "blog_title": "ハムスター速報",
+    "date": "2026-10-06 22:24",
+    "timestamp": 1791325440.0
+  },
+  {
+    "title": "ピアニストの反田恭平氏、スピード違反で在宅起訴　制限速度84キロ超の時速144キロで走行",
+    "url": "https://goldennews.blog.jp/archives/52308811.html",
+    "blog_title": "ゴールデンタイムズ",
+    "date": "2026-10-06 22:12",
+    "timestamp": 1791324720.0
+  },
+  {
+    "title": "ハッカーが楽天会員1億100万件の個人情報 販売を主張―氏名・住所・ポイント情報のサンプル掲載、漏洩元・真正性は未確認",
+    "url": "https://itainews.com/archives/2068068.html",
+    "blog_title": "痛いニュース(ﾉ∀`)",
+    "date": "2026-10-06 22:00",
+    "timestamp": 1791324020.0
+  },
+  {
+    "title": "「日本刀は2、3人斬ると脂で切れなくなる」←これって本当なの？",
+    "url": "https://nwknews.jp/archives/6261955.html",
+    "blog_title": "哲学ニュースnwk",
+    "date": "2026-10-06 22:00",
+    "timestamp": 1791324019.0
+  },
+  {
     "title": "就活始めるまで知らなかった言葉wwwww",
     "url": "https://news23vip.livedoor.blog/archives/6261963.html",
     "blog_title": "VIPPERな俺",
     "date": "2026-10-06 21:00",
     "timestamp": 1791320442.0
-  },
-  {
-    "title": "【悲報】無職転生さん、今度は別のVtuberに批判されてしまうｗｗｗｗｗｗ",
-    "url": "https://alfalfalfa.com/articles/11117070.html",
-    "blog_title": "アルファルファモザイク＠ネットニュースのまとめ",
-    "date": "2026-10-06 21:00",
-    "timestamp": 1791320439.0
-  },
-  {
-    "title": "【画像】X女「目が二重でパッチリしてる男、マジで気持ち悪い！異性として見れない」",
-    "url": "http://blog.livedoor.jp/kinisoku/archives/5712320.html",
-    "blog_title": "キニ速",
-    "date": "2026-10-06 21:00",
-    "timestamp": 1791320422.0
-  },
-  {
-    "title": "Googleがデータセンターに使用した水の量、黒塗りにされるもコピー&ペーストで読めてしまうｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗ",
-    "url": "http://blog.livedoor.jp/kinisoku/archives/5712353.html",
-    "blog_title": "キニ速",
-    "date": "2026-10-06 20:00",
-    "timestamp": 1791316855.0
-  },
-  {
-    "title": "小沢一郎、中道に離党届　新党結成を模索",
-    "url": "https://alfalfalfa.com/articles/11117067.html",
-    "blog_title": "アルファルファモザイク＠ネットニュースのまとめ",
-    "date": "2026-10-06 20:00",
-    "timestamp": 1791316825.0
-  },
-  {
-    "title": "【画像】可愛すぎる零細企業の事務社員がこちらwwwwww【Pickup06132035】",
-    "url": "https://alfalfalfa.com/articles/11116765.html",
-    "blog_title": "アルファルファモザイク＠ネットニュースのまとめ",
-    "date": "2026-10-06 19:50",
-    "timestamp": 1791316230.0
-  },
-  {
-    "title": "【悲報】動物園に行ったオシャレ女子、象より脚が太くて大炎上wwwwwwwwwwww",
-    "url": "https://alfalfalfa.com/articles/11116715.html",
-    "blog_title": "アルファルファモザイク＠ネットニュースのまとめ",
-    "date": "2026-10-06 19:00",
-    "timestamp": 1791313212.0
-  },
-  {
-    "title": "【画像あり】38歳のJK、バズるｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗ【Pickup06132038】",
-    "url": "https://alfalfalfa.com/articles/11116766.html",
-    "blog_title": "アルファルファモザイク＠ネットニュースのまとめ",
-    "date": "2026-10-06 18:50",
-    "timestamp": 1791312632.0
   },
   {
     "title": "ハリー・ポッターの作者が男だった時にありがちなこと",
@@ -63,13 +182,6 @@
     "timestamp": 1791309629.0
   },
   {
-    "title": "ロシア、ペスト感染拡大で5つの病院が閉鎖へwwww",
-    "url": "http://blog.livedoor.jp/kinisoku/archives/5712290.html",
-    "blog_title": "キニ速",
-    "date": "2026-10-06 17:00",
-    "timestamp": 1791306005.0
-  },
-  {
     "title": "【爆笑】センスありすぎｗｗｗ「優秀なボケて画像」貼っていく",
     "url": "https://nwknews.jp/archives/6261954.html",
     "blog_title": "哲学ニュースnwk",
@@ -77,25 +189,11 @@
     "timestamp": 1791302444.0
   },
   {
-    "title": "【緊急】AIによる個人情報流出対策部",
-    "url": "http://blog.livedoor.jp/kinisoku/archives/5712369.html",
-    "blog_title": "キニ速",
-    "date": "2026-10-06 16:00",
-    "timestamp": 1791302436.0
-  },
-  {
     "title": "700ドルで楽天会員1億100万人の個人情報データセットが販売中",
     "url": "https://news23vip.livedoor.blog/archives/6261953.html",
     "blog_title": "VIPPERな俺",
     "date": "2026-10-06 15:46",
     "timestamp": 1791301611.0
-  },
-  {
-    "title": "【画像】「瓶のポカリスエットを飲んだことないガキは出ていけ」ネットおぢ、懐かしさで大盛り上がりｗｗｗ",
-    "url": "http://blog.livedoor.jp/kinisoku/archives/5712280.html",
-    "blog_title": "キニ速",
-    "date": "2026-10-06 15:30",
-    "timestamp": 1791300639.0
   },
   {
     "title": "マズイな…こんな時間だってのに身体がチョコミントになってきやがった",
@@ -133,41 +231,6 @@
     "timestamp": 1791295275.0
   },
   {
-    "title": "【悲報】無職転生さん、ついに原作者まで叩かれてしまうｗｗｗ",
-    "url": "https://nwknews.jp/archives/6261828.html",
-    "blog_title": "哲学ニュースnwk",
-    "date": "2026-10-06 14:00",
-    "timestamp": 1791295249.0
-  },
-  {
-    "title": "最近アニメ見てるとこうなる",
-    "url": "https://goldennews.blog.jp/archives/52308809.html",
-    "blog_title": "ゴールデンタイムズ",
-    "date": "2026-10-06 13:50",
-    "timestamp": 1791294624.0
-  },
-  {
-    "title": "【悲報】Mカップ歯科衛生士さん、客に胸が当たってしまう",
-    "url": "https://news23vip.livedoor.blog/archives/6261894.html",
-    "blog_title": "VIPPERな俺",
-    "date": "2026-10-06 13:30",
-    "timestamp": 1791293423.0
-  },
-  {
-    "title": "20年以上つかってボロボロの中国製エアコンと、ほとんど錆なく綺麗な日本製の対比が話題に",
-    "url": "https://itainews.com/archives/2068064.html",
-    "blog_title": "痛いニュース(ﾉ∀`)",
-    "date": "2026-10-06 13:01",
-    "timestamp": 1791291704.0
-  },
-  {
-    "title": "【疑問】味噌汁にカボチャ入れる奴いるけど、正直合わなくない？",
-    "url": "https://nwknews.jp/archives/6261821.html",
-    "blog_title": "哲学ニュースnwk",
-    "date": "2026-10-06 13:00",
-    "timestamp": 1791291647.0
-  },
-  {
     "title": "【早稲田大学】日本史の授業でINMU KINGを履修　淫夢学始まる",
     "url": "https://hamusoku.com/archives/11045902.html",
     "blog_title": "ハムスター速報",
@@ -175,73 +238,10 @@
     "timestamp": 1791290736.0
   },
   {
-    "title": "マッチングアプリとかいう課金できる地獄",
-    "url": "https://goldennews.blog.jp/archives/52308800.html",
-    "blog_title": "ゴールデンタイムズ",
-    "date": "2026-10-06 12:12",
-    "timestamp": 1791288720.0
-  },
-  {
-    "title": "ネパール当局が捜索・救助活動を終了、日本人５人含む５２００人以上が行方不明の大災害",
-    "url": "https://itainews.com/archives/2068057.html",
-    "blog_title": "痛いニュース(ﾉ∀`)",
-    "date": "2026-10-06 12:04",
-    "timestamp": 1791288276.0
-  },
-  {
-    "title": "【朗報】川崎重工、人が乗れる4足モビリティー販売ｗｗｗｗｗ",
-    "url": "https://news23vip.livedoor.blog/archives/6261892.html",
-    "blog_title": "VIPPERな俺",
-    "date": "2026-10-06 12:00",
-    "timestamp": 1791288052.0
-  },
-  {
-    "title": "【歴史】日本史で一番「マジかよ」ってなったエピソード挙げてけ",
-    "url": "https://nwknews.jp/archives/6261778.html",
-    "blog_title": "哲学ニュースnwk",
-    "date": "2026-10-06 12:00",
-    "timestamp": 1791288030.0
-  },
-  {
-    "title": "【沖縄米兵強盗殺人】「メキシコの殺人鬼」と名乗るバラード容疑者…「基地の外で身柄確保できたことは非常に大きい」",
-    "url": "https://itainews.com/archives/2068070.html",
-    "blog_title": "痛いニュース(ﾉ∀`)",
-    "date": "2026-10-06 11:31",
-    "timestamp": 1791286311.0
-  },
-  {
-    "title": "ＳＮＳでの誹謗中傷、賠償請求額の引き上げ検討",
-    "url": "https://goldennews.blog.jp/archives/52308806.html",
-    "blog_title": "ゴールデンタイムズ",
-    "date": "2026-10-06 11:14",
-    "timestamp": 1791285240.0
-  },
-  {
-    "title": "車内でネコを金づちで叩いていた男を逮捕　骨折したネコら数匹を保護",
-    "url": "https://itainews.com/archives/2068054.html",
-    "blog_title": "痛いニュース(ﾉ∀`)",
-    "date": "2026-10-06 11:02",
-    "timestamp": 1791284532.0
-  },
-  {
     "title": "「自分の情報は自分で守って」発言で炎上中の古川俊治デジタル相　時事通信による切り取りデマでした",
     "url": "https://hamusoku.com/archives/11045888.html",
     "blog_title": "ハムスター速報",
     "date": "2026-10-06 10:48",
     "timestamp": 1791283702.0
-  },
-  {
-    "title": "【不正アクセス】頻発する企業からの個人情報流出について古川俊治デジタル相「自分の情報は自分で守るという意識を持って」",
-    "url": "https://hamusoku.com/archives/11045806.html",
-    "blog_title": "ハムスター速報",
-    "date": "2026-10-06 08:11",
-    "timestamp": 1791274294.0
-  },
-  {
-    "title": "女性Vtuber「はぁ。今日もバカのフリしてスパチャ搾取しないと…」",
-    "url": "https://hamusoku.com/archives/11044383.html",
-    "blog_title": "ハムスター速報",
-    "date": "2026-10-06 07:22",
-    "timestamp": 1791271378.0
   }
 ]
