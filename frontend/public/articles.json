@@ -1,73 +1,234 @@
 [
   {
-    "title": "新聞協会、SNSで広がるデマを巡るショートドラマを公開「確かな情報源はありますか」",
-    "url": "https://itainews.com/archives/2069030.html",
-    "blog_title": "痛いニュース(ﾉ∀`)",
-    "date": "2026-10-31 01:01",
-    "timestamp": 1793408486.0
-  },
-  {
-    "title": "【悲報】FOX「なんでトランプの集会にきたの？🤩🎤」観衆のおっさん「カルトの集会見物できるやん」FOX「…🥺」",
-    "url": "http://blog.livedoor.jp/kinisoku/archives/5718405.html",
+    "title": "【悲報】お米の卸問屋さん、50億円の大赤字",
+    "url": "http://blog.livedoor.jp/kinisoku/archives/5718615.html",
     "blog_title": "キニ速",
-    "date": "2026-10-31 01:00",
-    "timestamp": 1793408445.0
+    "date": "2026-10-31 07:40",
+    "timestamp": 1793432405.0
   },
   {
-    "title": "【悲報】デザイナー「AIで仕事が大幅に消えた」",
-    "url": "https://alfalfalfa.com/articles/11125065.html",
+    "title": "【恐怖】千葉・松戸で通行人3人が次々切りつけられる…逮捕された自称コロンビア人の男、果物ナイフに加え包丁やカッターも所持していた",
+    "url": "https://nwknews.jp/archives/6266001.html",
+    "blog_title": "哲学ニュースnwk",
+    "date": "2026-10-31 07:33",
+    "timestamp": 1793432024.0
+  },
+  {
+    "title": "【速報】元日ハム・多田野数人が語る24年前の真相",
+    "url": "https://goldennews.blog.jp/archives/52309737.html",
+    "blog_title": "ゴールデンタイムズ",
+    "date": "2026-10-31 07:25",
+    "timestamp": 1793431509.0
+  },
+  {
+    "title": "【悲報】日本人、「食事キャンセル界隈」が増えてしまう",
+    "url": "https://alfalfalfa.com/articles/11125799.html",
     "blog_title": "アルファルファモザイク＠ネットニュースのまとめ",
-    "date": "2026-10-31 01:00",
-    "timestamp": 1793408439.0
+    "date": "2026-10-31 07:15",
+    "timestamp": 1793430911.0
+  },
+  {
+    "title": "朝日新聞、個人情報を漏洩させた企業に社説で説教 → 朝日新聞、顧客情報7万件が漏えい",
+    "url": "https://itainews.com/archives/2069046.html",
+    "blog_title": "痛いニュース(ﾉ∀`)",
+    "date": "2026-10-31 07:04",
+    "timestamp": 1793430268.0
+  },
+  {
+    "title": "【動画】原付バイク、トラックの無茶苦茶な運転に巻き込まれる⋯",
+    "url": "http://blog.livedoor.jp/kinisoku/archives/5718601.html",
+    "blog_title": "キニ速",
+    "date": "2026-10-31 07:00",
+    "timestamp": 1793430005.0
+  },
+  {
+    "title": "【SPY×FAMILY2】泉谷星奈ちゃんの挨拶が素敵すぎると話題に",
+    "url": "https://hamusoku.com/archives/11052887.html",
+    "blog_title": "ハムスター速報",
+    "date": "2026-10-31 06:32",
+    "timestamp": 1793428379.0
+  },
+  {
+    "title": "Xユーザー「GMOが嫌われる理由が詰まってて素敵」と揶揄投稿→GMO熊谷代表「削除されないと刑事告訴をいたします。本気です」",
+    "url": "https://itainews.com/archives/2069050.html",
+    "blog_title": "痛いニュース(ﾉ∀`)",
+    "date": "2026-10-31 06:31",
+    "timestamp": 1793428293.0
+  },
+  {
+    "title": "RADWIMPS野田洋次郎「国家とは合法化ヤクザ」",
+    "url": "https://alfalfalfa.com/articles/11125774.html",
+    "blog_title": "アルファルファモザイク＠ネットニュースのまとめ",
+    "date": "2026-10-31 06:30",
+    "timestamp": 1793428238.0
+  },
+  {
+    "title": "【悲報】サム・アルトマン「一般人がメモリを持つのは無駄。全部データセンターに置け」",
+    "url": "http://blog.livedoor.jp/kinisoku/archives/5718586.html",
+    "blog_title": "キニ速",
+    "date": "2026-10-31 06:20",
+    "timestamp": 1793427623.0
+  },
+  {
+    "title": "【速報】多田野数人(46)、ついに許される",
+    "url": "https://news23vip.livedoor.blog/archives/6265988.html",
+    "blog_title": "VIPPERな俺",
+    "date": "2026-10-31 06:10",
+    "timestamp": 1793427016.0
+  },
+  {
+    "title": "【悲報】トクリュウ所属の自衛隊員逮捕　特殊詐欺で70代女性から金だまし取り",
+    "url": "https://alfalfalfa.com/articles/11125757.html",
+    "blog_title": "アルファルファモザイク＠ネットニュースのまとめ",
+    "date": "2026-10-31 06:00",
+    "timestamp": 1793426437.0
+  },
+  {
+    "title": "「無断での撮影行為はご遠慮ください」 新宿駅の掲示が波紋...撮り鉄涙目？ JR東日本の真意は",
+    "url": "https://itainews.com/archives/2069045.html",
+    "blog_title": "痛いニュース(ﾉ∀`)",
+    "date": "2026-10-31 06:00",
+    "timestamp": 1793426429.0
+  },
+  {
+    "title": "【悲報】VTuberを中傷したクソガキ、親に損害賠償を背負わせる　3年前も同じような事案が発生",
+    "url": "https://goldennews.blog.jp/archives/52309735.html",
+    "blog_title": "ゴールデンタイムズ",
+    "date": "2026-10-31 05:57",
+    "timestamp": 1793426270.0
+  },
+  {
+    "title": "【衝撃】お台場がまさかのゴーストタウン化！？「人が全然いない」「いや、普通に混んでる」ネットで意見真っ二つｗｗｗ",
+    "url": "https://nwknews.jp/archives/6265985.html",
+    "blog_title": "哲学ニュースnwk",
+    "date": "2026-10-31 05:53",
+    "timestamp": 1793425980.0
+  },
+  {
+    "title": "【悲報】反AIさん、激キショAIポスターまみれの自販機に発狂ｗｗｗｗｗ",
+    "url": "http://blog.livedoor.jp/kinisoku/archives/5718580.html",
+    "blog_title": "キニ速",
+    "date": "2026-10-31 05:40",
+    "timestamp": 1793425243.0
+  },
+  {
+    "title": "「息子の首を絞めて殺した」　富士山麓の青木ヶ原樹海　89歳の女を逮捕　息子は重度の知的●害",
+    "url": "https://itainews.com/archives/2069044.html",
+    "blog_title": "痛いニュース(ﾉ∀`)",
+    "date": "2026-10-31 05:32",
+    "timestamp": 1793424741.0
+  },
+  {
+    "title": "【速報】次世代中華ソシャゲ、3ヶ月連続リリースへｗｗｗｗｗｗｗ",
+    "url": "https://alfalfalfa.com/articles/11125755.html",
+    "blog_title": "アルファルファモザイク＠ネットニュースのまとめ",
+    "date": "2026-10-31 05:30",
+    "timestamp": 1793424617.0
+  },
+  {
+    "title": "【📦】Amazon、まだ良い作品はあるか？「マンガ毎週末セール（50%還元）」2日目開催中！！！",
+    "url": "https://goldennews.blog.jp/archives/52309732.html",
+    "blog_title": "ゴールデンタイムズ",
+    "date": "2026-10-31 05:20",
+    "timestamp": 1793424018.0
+  },
+  {
+    "title": "【画像】黒木メイサの超ミニスカ、レベチｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗ【Pickup30091401】",
+    "url": "https://alfalfalfa.com/articles/11125329.html",
+    "blog_title": "アルファルファモザイク＠ネットニュースのまとめ",
+    "date": "2026-10-31 05:20",
+    "timestamp": 1793424000.0
+  },
+  {
+    "title": "岩手県のブラック教職員　精神疾患での病気休職７割超「気がついたら涙」",
+    "url": "https://hamusoku.com/archives/11052882.html",
+    "blog_title": "ハムスター速報",
+    "date": "2026-10-31 05:05",
+    "timestamp": 1793423156.0
+  },
+  {
+    "title": "【悲報】フェリス女学院大ベリーダンス部、セクシー衣装で学祭PR動画を公開するもエロコメ殺到で削除",
+    "url": "https://itainews.com/archives/2069042.html",
+    "blog_title": "痛いニュース(ﾉ∀`)",
+    "date": "2026-10-31 05:00",
+    "timestamp": 1793422859.0
+  },
+  {
+    "title": "外国人「日本には自殺文化がある」←正しかったｗｗｗｗ",
+    "url": "http://blog.livedoor.jp/kinisoku/archives/5718419.html",
+    "blog_title": "キニ速",
+    "date": "2026-10-31 05:00",
+    "timestamp": 1793422826.0
+  },
+  {
+    "title": "60歳男性、本物警察官が説得も聞き入れず1.9億円詐欺被害 「犯人が演じる警察官らに洗脳」",
+    "url": "https://goldennews.blog.jp/archives/52309728.html",
+    "blog_title": "ゴールデンタイムズ",
+    "date": "2026-10-31 04:50",
+    "timestamp": 1793422240.0
+  },
+  {
+    "title": "ジャングリア、もうダメそう……",
+    "url": "https://news23vip.livedoor.blog/archives/6265979.html",
+    "blog_title": "VIPPERな俺",
+    "date": "2026-10-31 04:48",
+    "timestamp": 1793422087.0
+  },
+  {
+    "title": "油そば食べてるやつ見下してる",
+    "url": "https://news23vip.livedoor.blog/archives/6265976.html",
+    "blog_title": "VIPPERな俺",
+    "date": "2026-10-31 03:59",
+    "timestamp": 1793419154.0
+  },
+  {
+    "title": "女性YouTuber・Rちゃん「高級車沢山持ってる彼氏と別れました。過去の夜職がバレて相手の親から認めて貰えなかった。」←セクシー女優から正論パンチされる",
+    "url": "https://hamusoku.com/archives/11052881.html",
+    "blog_title": "ハムスター速報",
+    "date": "2026-10-31 03:41",
+    "timestamp": 1793418104.0
+  },
+  {
+    "title": "【怖い話】インターネットにまつわる不気味な話や都市伝説を語ろうぜ",
+    "url": "https://nwknews.jp/archives/6265971.html",
+    "blog_title": "哲学ニュースnwk",
+    "date": "2026-10-31 03:33",
+    "timestamp": 1793417622.0
+  },
+  {
+    "title": "ぶっちゃけ町田商店って美味いよな",
+    "url": "https://news23vip.livedoor.blog/archives/6265969.html",
+    "blog_title": "VIPPERな俺",
+    "date": "2026-10-31 03:24",
+    "timestamp": 1793417057.0
+  },
+  {
+    "title": "海外で絶賛されているドライブレコーダー動画　移民犯罪対策として勉強になると話題に",
+    "url": "https://hamusoku.com/archives/11052877.html",
+    "blog_title": "ハムスター速報",
+    "date": "2026-10-31 02:17",
+    "timestamp": 1793413051.0
+  },
+  {
+    "title": "新美味しんぼの富井副部長→根は良い人間なので憎まれてはいない",
+    "url": "https://goldennews.blog.jp/archives/52309723.html",
+    "blog_title": "ゴールデンタイムズ",
+    "date": "2026-10-31 02:12",
+    "timestamp": 1793412734.0
+  },
+  {
+    "title": "【悲報】小学生が一生懸命描いた絵に「AIくさい」と批判殺到 → しょうゆポスターコンクール、作品公開中止に",
+    "url": "https://nwknews.jp/archives/6265956.html",
+    "blog_title": "哲学ニュースnwk",
+    "date": "2026-10-31 01:49",
+    "timestamp": 1793411357.0
   },
   {
     "title": "堀大輔さん　高須克弥先生に刑事告発されたのに続きX民にも証券取引等監視委員会・警視庁・厚生労働省とそこら中に通報されまくる",
     "url": "https://hamusoku.com/archives/11052875.html",
     "blog_title": "ハムスター速報",
     "date": "2026-10-31 00:55",
-    "timestamp": 1793408142.0
-  },
-  {
-    "title": "『カリアのアトリエ』体型変化ムービー公開！",
-    "url": "https://goldennews.blog.jp/archives/52309721.html",
-    "blog_title": "ゴールデンタイムズ",
-    "date": "2026-10-31 00:39",
-    "timestamp": 1793407148.0
-  },
-  {
-    "title": "【悲報】ひろゆき氏、厳しい社会の現実を語るも批判殺到",
-    "url": "https://alfalfalfa.com/articles/11125599.html",
-    "blog_title": "アルファルファモザイク＠ネットニュースのまとめ",
-    "date": "2026-10-31 00:30",
-    "timestamp": 1793406613.0
-  },
-  {
-    "title": "【画像】激キショAIポスター、遂に自販機にまで侵食してくるｗｗｗｗｗｗｗｗｗｗｗｗｗｗ",
-    "url": "http://blog.livedoor.jp/kinisoku/archives/5718372.html",
-    "blog_title": "キニ速",
-    "date": "2026-10-31 00:20",
-    "timestamp": 1793406054.0
-  },
-  {
-    "title": "Mattの被害者A「Mattの自宅でヤラれた」被害者B「ホテルでヤラれた」被害者C「トイレでヤラれた」",
-    "url": "https://itainews.com/archives/2069033.html",
-    "blog_title": "痛いニュース(ﾉ∀`)",
-    "date": "2026-10-31 00:00",
-    "timestamp": 1793404841.0
-  },
-  {
-    "title": "【悲報】「夜職で妹の学費を出したのに結婚式出禁」元No.1嬢の告白に賛否両論。",
-    "url": "https://alfalfalfa.com/articles/11125680.html",
-    "blog_title": "アルファルファモザイク＠ネットニュースのまとめ",
-    "date": "2026-10-31 00:00",
-    "timestamp": 1793404839.0
-  },
-  {
-    "title": "【悲報】不正アクセスによる個人情報漏えい、4月以降延べ2億6000万人分に",
-    "url": "https://goldennews.blog.jp/archives/52309720.html",
-    "blog_title": "ゴールデンタイムズ",
-    "date": "2026-10-30 23:57",
-    "timestamp": 1793404628.0
+    "timestamp": 1793408151.0
   },
   {
     "title": "【疑問】日本「2026年10月29日」アメリカ「10/29/2026」イギリス「29/10/2026」←日付の書き方バラバラすぎて分かりにくくない？",
@@ -77,171 +238,10 @@
     "timestamp": 1793404538.0
   },
   {
-    "title": "【画像】今の若手の女芸人さん、ふつうにかわいい【Pickup30091411】",
-    "url": "https://alfalfalfa.com/articles/11125332.html",
-    "blog_title": "アルファルファモザイク＠ネットニュースのまとめ",
-    "date": "2026-10-30 23:50",
-    "timestamp": 1793404258.0
-  },
-  {
-    "title": "ゲーム制作者「アホがAI製ゲーム攻略wikiに載ってる嘘攻略情報について問い合わせしてくる。」",
-    "url": "http://blog.livedoor.jp/kinisoku/archives/5718051.html",
-    "blog_title": "キニ速",
-    "date": "2026-10-30 23:40",
-    "timestamp": 1793403624.0
-  },
-  {
-    "title": "【悲報】楽天、誕生日に公式Xで祝った選手をその日のうちに◯◯◯◯◯。「ど畜生すぎる」「広報と編成で連携取れよ」",
-    "url": "https://alfalfalfa.com/articles/11125600.html",
-    "blog_title": "アルファルファモザイク＠ネットニュースのまとめ",
-    "date": "2026-10-30 23:30",
-    "timestamp": 1793403017.0
-  },
-  {
-    "title": "【画像】もう上のランクになればなるほど良い物だろ！って思ってるマーク",
-    "url": "https://goldennews.blog.jp/archives/52309694.html",
-    "blog_title": "ゴールデンタイムズ",
-    "date": "2026-10-30 23:12",
-    "timestamp": 1793401920.0
-  },
-  {
-    "title": "マッマ「お願いだから働いて家にお金入れて」ワイ「ん！」一念発起",
-    "url": "https://hamusoku.com/archives/11052176.html",
-    "blog_title": "ハムスター速報",
-    "date": "2026-10-30 23:07",
-    "timestamp": 1793401620.0
-  },
-  {
-    "title": "【悲報】塩対応の薬剤師にクレーム＆追い打ちして出禁になったジジイ、逆に調剤薬局を訴えるｗｗｗｗｗ",
-    "url": "http://blog.livedoor.jp/kinisoku/archives/5718176.html",
-    "blog_title": "キニ速",
-    "date": "2026-10-30 23:00",
-    "timestamp": 1793401254.0
-  },
-  {
-    "title": "【朗報】日本の国会議員の給料、G7で最高に！（国民の年収は最低）",
-    "url": "https://itainews.com/archives/2069028.html",
-    "blog_title": "痛いニュース(ﾉ∀`)",
-    "date": "2026-10-30 23:00",
-    "timestamp": 1793401237.0
-  },
-  {
-    "title": "【画像】AIに「私があなたをどのように扱ってきたか一枚の画像にして」と頼んで出てきた画像ｗｗｗｗ",
-    "url": "http://blog.livedoor.jp/kinisoku/archives/5718374.html",
-    "blog_title": "キニ速",
-    "date": "2026-10-30 22:40",
-    "timestamp": 1793400032.0
-  },
-  {
-    "title": "【日本の闇】よく考えると怖すぎる童謡・民謡・言い伝えを教えてくれ",
-    "url": "https://nwknews.jp/archives/6265935.html",
-    "blog_title": "哲学ニュースnwk",
-    "date": "2026-10-30 22:27",
-    "timestamp": 1793399262.0
-  },
-  {
-    "title": "【日本の闇】よく考えると怖すぎる童謡・民謡・言い伝えを教えてくれ",
-    "url": "https://nwknews.jp/archives/6265936.html",
-    "blog_title": "哲学ニュースnwk",
-    "date": "2026-10-30 22:27",
-    "timestamp": 1793399222.0
-  },
-  {
-    "title": "【悲報】渡邊渚さん(29)、フォークの持ち方がクソ気持ち悪くて炎上w w w w w w w w w w w w w w",
-    "url": "https://itainews.com/archives/2069015.html",
-    "blog_title": "痛いニュース(ﾉ∀`)",
-    "date": "2026-10-30 22:00",
-    "timestamp": 1793397643.0
-  },
-  {
     "title": "【悲報】埼玉女さん、中学生らに全体攻撃",
     "url": "https://news23vip.livedoor.blog/archives/6265917.html",
     "blog_title": "VIPPERな俺",
     "date": "2026-10-30 21:00",
     "timestamp": 1793394057.0
-  },
-  {
-    "title": "【悲報】チノちゃん、スマホーゲームになる",
-    "url": "https://news23vip.livedoor.blog/archives/6265911.html",
-    "blog_title": "VIPPERな俺",
-    "date": "2026-10-30 18:00",
-    "timestamp": 1793383237.0
-  },
-  {
-    "title": "【画像】ネットで拾った変な画像、ツッコミどころが多すぎて草ｗｗｗｗｗ",
-    "url": "https://nwknews.jp/archives/6265910.html",
-    "blog_title": "哲学ニュースnwk",
-    "date": "2026-10-30 16:14",
-    "timestamp": 1793376853.0
-  },
-  {
-    "title": "【悲報】サンリオの中国現地法人、「VIVANT」とのコラボ中止",
-    "url": "https://goldennews.blog.jp/archives/52309710.html",
-    "blog_title": "ゴールデンタイムズ",
-    "date": "2026-10-30 16:12",
-    "timestamp": 1793376768.0
-  },
-  {
-    "title": "グッスマ公式、第4報で漏洩期間がさらに悪化  閲覧された注文202件が特定できず",
-    "url": "https://goldennews.blog.jp/archives/52309713.html",
-    "blog_title": "ゴールデンタイムズ",
-    "date": "2026-10-30 15:42",
-    "timestamp": 1793374975.0
-  },
-  {
-    "title": "【懐古】令和になっても生き残っている「昭和すぎるもの」って何がある？",
-    "url": "https://nwknews.jp/archives/6265901.html",
-    "blog_title": "哲学ニュースnwk",
-    "date": "2026-10-30 15:17",
-    "timestamp": 1793373446.0
-  },
-  {
-    "title": "天ぷらTier表",
-    "url": "https://news23vip.livedoor.blog/archives/6265844.html",
-    "blog_title": "VIPPERな俺",
-    "date": "2026-10-30 15:00",
-    "timestamp": 1793372417.0
-  },
-  {
-    "title": "【ブラック教職】モンペに破壊される先生たち",
-    "url": "https://hamusoku.com/archives/11052629.html",
-    "blog_title": "ハムスター速報",
-    "date": "2026-10-30 14:04",
-    "timestamp": 1793369048.0
-  },
-  {
-    "title": "韓国で日本人女性殺害 服を着ておらず、全身に多数の刺し傷　韓国籍の30代男を拘束 「一緒に死のうと殺害した」",
-    "url": "https://itainews.com/archives/2069036.html",
-    "blog_title": "痛いニュース(ﾉ∀`)",
-    "date": "2026-10-30 14:01",
-    "timestamp": 1793368911.0
-  },
-  {
-    "title": "LINEの登録名が本名じゃないやつ←これ",
-    "url": "https://news23vip.livedoor.blog/archives/6265838.html",
-    "blog_title": "VIPPERな俺",
-    "date": "2026-10-30 13:30",
-    "timestamp": 1793367009.0
-  },
-  {
-    "title": "【ジャングリア沖縄】森岡毅さん　経営ヤバすぎて顔面が倒産しそうになる",
-    "url": "https://hamusoku.com/archives/11052620.html",
-    "blog_title": "ハムスター速報",
-    "date": "2026-10-30 12:30",
-    "timestamp": 1793363432.0
-  },
-  {
-    "title": "iPhone←高いです、性能はそこそこです、デザインは人を選びます",
-    "url": "https://news23vip.livedoor.blog/archives/6265832.html",
-    "blog_title": "VIPPERな俺",
-    "date": "2026-10-30 12:00",
-    "timestamp": 1793361639.0
-  },
-  {
-    "title": "心霊系YouTuberワイ「バカのおかげで飯食えてますww」",
-    "url": "https://hamusoku.com/archives/11051615.html",
-    "blog_title": "ハムスター速報",
-    "date": "2026-10-30 10:49",
-    "timestamp": 1793357340.0
   }
 ]
